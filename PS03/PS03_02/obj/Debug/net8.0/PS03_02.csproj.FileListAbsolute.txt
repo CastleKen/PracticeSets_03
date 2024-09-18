@@ -1,0 +1,15 @@
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\bin\Debug\net8.0\PS03_02.exe
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\bin\Debug\net8.0\PS03_02.deps.json
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\bin\Debug\net8.0\PS03_02.runtimeconfig.json
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\bin\Debug\net8.0\PS03_02.dll
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\bin\Debug\net8.0\PS03_02.pdb
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.AssemblyInfoInputs.cache
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.AssemblyInfo.cs
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.sourcelink.json
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.dll
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\refint\PS03_02.dll
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.pdb
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\PS03_02.genruntimeconfig.cache
+C:\Users\Kenneth\desktop\PracticeSets_03\PS03\PS03_02\obj\Debug\net8.0\ref\PS03_02.dll
